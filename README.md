@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ConorJurewicz
-- 👀 I’m interested in learning new languages to build websites, software, and AI.
+- 👀 I’m interested in learning new languages to build websites, software, and A.I.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python
 - 📫 To contact me, email me @ conorhjurewicz@gmail.com
 
