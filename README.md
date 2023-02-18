@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ConorJurewicz
-- 🌱 I’m currently learning C++, and pytorch
+- 🌱 I’m currently learning C++ and pytorch
 - 📫 To contact me, email me @ conorhjurewicz@gmail.com
 
 <!---
