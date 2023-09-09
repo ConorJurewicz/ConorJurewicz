@@ -32,11 +32,11 @@ my studies at UD.
 [Screenshot](https://media.discordapp.net/attachments/1018563295281688698/1123850154982789170/image.png?width=1218&height=1108)
 
 
-**Description:** Provide a brief description of the project, including its purpose and key features.
+**Description:** A program that takes data on social networks and outputs the cascade effect visualized
+in either a GIF or screenshots. Done under the advisement of Professor Tong at University of Delaware
+during my internship.
 
-- **Technologies Used:** List the technologies, libraries, and frameworks used in the project.
-- **Repository Link:** [Project Repository](link_to_project_repo)
-- **Live Demo:** [Live Demo](link_to_live_demo_if_available)
+- **Technologies Used:** Python, Pandas, NetworkX, and Pyvis.
 
 ### [Another Project Name](link_to_another_project_repo)
 
