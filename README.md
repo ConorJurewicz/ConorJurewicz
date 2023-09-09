@@ -27,9 +27,9 @@ my studies at UD.
 
 ### Projects
 
-### [Project Name](link_to_project_repo)
+### [SNAGv]
 
-![Project Screenshot](url_to_project_screenshot.png)
+![Project Screenshot]([url_to_project_screenshot.png](https://media.discordapp.net/attachments/1018563295281688698/1123850154982789170/image.png?width=1218&height=1108))
 
 **Description:** Provide a brief description of the project, including its purpose and key features.
 
