@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Hello, I'm Conor Jurewicz and I'm a Junior at University of Delaware. I'm pursuing my bachelor's 
+Hi!
+I'm Conor Jurewicz and I'm a Junior at University of Delaware. I'm pursuing my bachelor's 
 of science degree in Computer Science with a focus in Artifical Intelligence & Robotics
 
 
@@ -10,7 +11,7 @@ of science degree in Computer Science with a focus in Artifical Intelligence & R
 
 I enjoy working with a wide range of technologies and tools. Here's a list of the tools and languages I'm most proficient in, ranked from highest to lowest familiarity:
 
-- **Languages:** [Python, C/C++, HTML/CSS, TypeScript, ]
+- **Languages:** [Python, C/C++, HTML/CSS, TypeScript, Rust, Assembly]
 - **Frameworks & Libraries:** [React, Pandas, NetworkX, Pyvis]
 
 
@@ -21,7 +22,7 @@ I recently finished an internship conducting research on social network analysis
 my studies at UD.
 
 - Currrently taking Software Engineering, Logic for Programming, Automota Theory, and Ethics
-- Tutor at UD for CISC220 (Data Structures) and a TA for CISC108 (Introduction to Computer Science)
+- Tutor at UD for CISC220 (Data Structures) and a TA at UD for CISC108 (Introduction to Computer Science)
 - During my free time I enjoy working on projects in Python, HTML/CSS & TypeScript, and C++
 
 ### Projects
