@@ -1,26 +1,18 @@
-# About Me
+# Hello!
 
-## 👋 Introduction
+## 👋Introduction
 
-Hello, I'm [Your Name], a [Your Profession/Interest] based in [Your Location]. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and more.
+Hello, I'm Conor Jurewicz and I'm a Junior at University of Delaware. I'm pursuing my bachelor's 
+of science degree in Computer Science with a focus in Artifical Intelligence & Robotics
 
-## 📫 Contact Information
-
-- 📧 **Email:** [Your Email Address](mailto:youremail@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- 🌐 **Website:** [Your Personal Website](https://www.yourwebsite.com)
-
-# Skills and Projects
+# Skills, Projects, and What I'm up to
 
 ## 💼 Skills
 
-I enjoy working with a wide range of technologies and tools. Here are some of the tools and languages I commonly use:
+I enjoy working with a wide range of technologies and tools. Here's a list of the tools and languages I'm most proficient in, ranked from highest to lowest familiarity:
 
-- **Languages:** [Languages]
-- **Frameworks & Libraries:** [Frameworks and Libraries]
-- **Databases:** [Databases]
-- **Tools & DevOps:** [DevOps Tools]
-- **Design & UI/UX:** [Design Tools]
+- **Languages:** [Python, C/C++, HTML/CSS, TypeScript, ]
+- **Frameworks & Libraries:** [React, Pandas, NetworkX, Pyvis]
 
 ## 🌟 Projects
 
@@ -46,29 +38,23 @@ I enjoy working with a wide range of technologies and tools. Here are some of th
 
 Feel free to explore more of my projects in the [Projects](link_to_projects_page) section.
 
-# Learning and Blog
 
-## 🌱 I'm Currently Learning
 
-I'm always eager to learn new things. Currently, I'm focusing on:
+## 🌱 What I'm up to
 
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
+I'm passionate about Computer Science and enjoy learning new things. 
+I recently finished an internship conducting research @ University of Delaware and am returning to
+my studies at UD.
 
-## 📝 Blog Posts
+- [Currrently taking Software Engineering, Logic for Programming, Automota Theory, and Ethics]
+- [Tutor at UD for CISC220 (Data Structures) and a TA for CISC108 (Introduction to Computer Science)]
+- [During my free time I enjoy working on projects in Python, HTML/CSS & TypeScript, and C++]
 
-I occasionally write blog posts on various topics. Check out some of my recent articles:
 
-1. [Blog Post 1 Title](link_to_blog_post1)
-   - Summary of the blog post.
+## 📫 Contact Information
 
-2. [Blog Post 2 Title](link_to_blog_post2)
-   - Summary of the blog post.
-
-# Let's Connect
-
-If you have any questions, suggestions, or just want to chat, feel free to reach out to me. I'm always open to interesting discussions and collaborations.
+- 📧 **Email:** [conorjur@udel.edu](mailto:conorjur@udel.edu)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ConorJurewicz)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
