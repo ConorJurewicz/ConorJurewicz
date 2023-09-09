@@ -17,14 +17,14 @@ I enjoy working with a wide range of technologies and tools. Here's a list of th
 ### What I'm up to
 
 I'm passionate about Computer Science and enjoy learning new things. 
-I recently finished an internship conducting research @ University of Delaware and am returning to
+I recently finished an internship conducting research on social network analysis at University of Delaware and am now returning to
 my studies at UD.
 
 - Currrently taking Software Engineering, Logic for Programming, Automota Theory, and Ethics
 - Tutor at UD for CISC220 (Data Structures) and a TA for CISC108 (Introduction to Computer Science)
 - During my free time I enjoy working on projects in Python, HTML/CSS & TypeScript, and C++
 
-### 🌟 Projects
+### Projects
 
 ### [Project Name](link_to_project_repo)
 
@@ -50,10 +50,10 @@ Feel free to explore more of my projects in the [Projects](link_to_projects_page
 
 
 
-### 📫 Contact Information
+### Contact Information
 
-- 📧 **Email:** [conorjur@udel.edu](mailto:conorjur@udel.edu)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ConorJurewicz)
+- **Email:** [conorjur@udel.edu](mailto:conorjur@udel.edu)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ConorJurewicz)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
