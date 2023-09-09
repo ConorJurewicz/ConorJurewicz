@@ -3,8 +3,8 @@
 ## Introduction
 
 Hi!
-I'm Conor Jurewicz and I'm a Junior at University of Delaware. I'm pursuing my bachelor's 
-of science degree in Computer Science with a focus in Artifical Intelligence & Robotics
+I'm Conor Jurewicz and I'm a Junior at University of Delaware. I'm pursuing my Bachelor's 
+of Science degree in Computer Science with a focus in Artificial Intelligence & Robotics
 
 
 ### Skills
@@ -21,7 +21,7 @@ I'm passionate about Computer Science and enjoy learning new things.
 I recently finished an internship conducting research on social network analysis at University of Delaware and am now returning to
 my studies at UD.
 
-- Currrently taking Software Engineering, Logic for Programming, Automota Theory, and Ethics
+- Currrently taking Software Engineering, Logic for Programming, Automata Theory, and Ethics
 - Tutor at UD for CISC220 (Data Structures) and a TA at UD for CISC108 (Introduction to Computer Science)
 - During my free time I enjoy working on projects in Python, HTML/CSS & TypeScript, and C++
 
