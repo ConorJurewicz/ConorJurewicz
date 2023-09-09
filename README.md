@@ -27,9 +27,10 @@ my studies at UD.
 
 ### Projects
 
-### [SNAGv]
+[SNAGv]
 
-![Project Screenshot]([[https://ibb.co/3pSL72j])
+[Screenshot](https://ibb.co/3pSL72j)
+
 
 **Description:** Provide a brief description of the project, including its purpose and key features.
 
