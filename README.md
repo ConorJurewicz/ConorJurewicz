@@ -37,6 +37,7 @@ in either a GIF or screenshots. Done under the advisement of Professor Tong at U
 during my internship.
 
 - **Technologies Used:** Python, Pandas, NetworkX, and Pyvis.
+- - **Live Demo:** [Live Demo](https://media.discordapp.net/attachments/1018563295281688698/1134156571723694100/sel_gif.gif?width=1410&height=754)
 
 ### [Another Project Name](link_to_another_project_repo)
 
