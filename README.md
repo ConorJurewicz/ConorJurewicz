@@ -29,7 +29,7 @@ my studies at UD.
 
 ### [SNAGv]
 
-![Project Screenshot]([[url_to_project_screenshot.png])
+![Project Screenshot]([[https://ibb.co/3pSL72j])
 
 **Description:** Provide a brief description of the project, including its purpose and key features.
 
