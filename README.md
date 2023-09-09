@@ -29,7 +29,7 @@ my studies at UD.
 
 [SNAGv]
 
-[Screenshot](https://ibb.co/3pSL72j)
+[Screenshot](https://media.discordapp.net/attachments/1018563295281688698/1123850154982789170/image.png?width=1218&height=1108)
 
 
 **Description:** Provide a brief description of the project, including its purpose and key features.
