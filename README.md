@@ -56,7 +56,7 @@ Feel free to explore more of my projects in the [Projects](link_to_projects_page
 ### Contact Information
 
 - **Email:** [conorjur@udel.edu](mailto:conorjur@udel.edu)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ConorJurewicz)
+- **LinkedIn:** [ConorJurewicz](https://www.linkedin.com/in/ConorJurewicz)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
