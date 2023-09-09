@@ -27,7 +27,7 @@ my studies at UD.
 
 ### Projects
 
-[SNAGv]
+**SNAGv**
 
 [Screenshot](https://media.discordapp.net/attachments/1018563295281688698/1123850154982789170/image.png?width=1218&height=1108)
 
@@ -39,15 +39,15 @@ during my internship.
 - **Technologies Used:** Python, Pandas, NetworkX, and Pyvis.
 - **Live Demo:** [GIF](https://media.discordapp.net/attachments/1018563295281688698/1134156571723694100/sel_gif.gif?width=1410&height=754)
 
-### [Another Project Name](link_to_another_project_repo)
 
-![Project Screenshot](url_to_another_project_screenshot.png)
+**Ava**
 
-**Description:** Provide a brief description of the project, including its purpose and key features.
 
-- **Technologies Used:** List the technologies, libraries, and frameworks used in the project.
-- **Repository Link:** [Project Repository](link_to_another_project_repo)
-- **Live Demo:** [Live Demo](link_to_live_demo_if_available)
+**Description:** A voice assistant that uses speech recognition and text-to-speech. 
+It can interact with users, respond to queries, and open applications like web browsers and office software based on voice commands.
+Still in development.
+
+- **Technologies Used:** Python, speech_recognition, Selenium, gTTs.
 
 Feel free to explore more of my projects in the [Projects](link_to_projects_page) section.
 
