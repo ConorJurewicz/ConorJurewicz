@@ -58,7 +58,7 @@ Feel free to explore more of my projects in the [Projects](link_to_projects_page
 - **Email:** [conorjur@udel.edu](mailto:conorjur@udel.edu)
 - **LinkedIn:** [ConorJurewicz](https://www.linkedin.com/in/ConorJurewicz)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 
 <!---
