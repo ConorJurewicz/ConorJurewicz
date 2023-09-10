@@ -58,7 +58,7 @@ Feel free to explore more of my projects in the [Projects](link_to_projects_page
 - **Email:** [conorjur@udel.edu](mailto:conorjur@udel.edu)
 - **LinkedIn:** [ConorJurewicz](https://www.linkedin.com/in/ConorJurewicz)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ConorJurewicz.ConorJurewicz)
 
 <!---
 ConorJurewicz/ConorJurewicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
