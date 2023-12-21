@@ -11,19 +11,20 @@ of Science degree in Computer Science with a focus in Artificial Intelligence & 
 
 I enjoy working with a wide range of technologies and tools. Here's a list of the tools and languages I'm most proficient in, ranked from highest to lowest familiarity:
 
-- **Languages:** [Python, C/C++, HTML/CSS, TypeScript, Rust, Assembly]
-- **Frameworks & Libraries:** [React, Pandas, NetworkX, Pyvis]
+- **Languages:** [Python, C/C++, HTML/CSS, TypeScript & Javascript, Rust, Assembly]
+- **Frameworks & Libraries:** [React, Pandas, NetworkX, Pyvis, Falcon/Waitress, Cairo]
 
 
 ### What I'm up to
 
 I'm passionate about Computer Science and enjoy learning new things. 
-I recently finished an internship conducting research on social network analysis at University of Delaware and am now returning to
-my studies at UD.
+I'm currently interning at Phase Sensitive Innovations as an Embedded Systems developer.
+My main task at Phase Sensitive Innovations is full stack development with Falcon and React.
 
-- Currrently taking Software Engineering, Logic for Programming, Automata Theory, and Ethics
-- Tutor at UD for CISC220 (Data Structures) and a TA at UD for CISC108 (Introduction to Computer Science)
-- During my free time I enjoy working on projects in Python, HTML/CSS & TypeScript, and C++
+During the Spring 2024 Semester I'll be taking
+- Parallel Computing, Database Systems, and Statistics
+- Tutor at UD for CISC220 (Data Structures)
+- During my free time I enjoy working on projects in Python, HTML/CSS & TypeScript/JavaScript, and C++
 
 ### Projects
 
