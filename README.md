@@ -17,7 +17,6 @@ I enjoy working with a wide range of technologies and tools. Here's a list of th
 
 ### What I'm up to
 
-I'm passionate about Computer Science and enjoy learning new things. 
 I'm currently interning at Phase Sensitive Innovations as an Embedded Systems developer.
 My main task at Phase Sensitive Innovations is full stack development with Falcon and React.
 
