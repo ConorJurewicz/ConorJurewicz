@@ -12,16 +12,17 @@ of Science degree in Computer Science with a focus in Artificial Intelligence & 
 I enjoy working with a wide range of technologies and tools. Here's a list of the tools and languages I'm most proficient in, ranked from highest to lowest familiarity:
 
 - **Languages:** [Python, C/C++, HTML/CSS, TypeScript & Javascript, Rust, Assembly]
-- **Frameworks & Libraries:** [React, Pandas, NetworkX, Pyvis, Falcon/Waitress, Cairo]
+- **Frameworks & Libraries:** [React, Axios, Falcon/Waitress. Pandas, NetworkX, Pyvis, Cairo]
 
 
 ### What I'm up to
 
-I'm currently interning at Phase Sensitive Innovations as an Embedded Systems developer.
-My main task at Phase Sensitive Innovations is full stack development with Falcon and React.
+I'm currently interning at Phase Sensitive Innovations as an Embedded Systems Developer.
+My main task at Phase Sensitive Innovations is full stack development with Axios and React Query.
 
 During the Spring 2024 Semester I'll be taking
 - Parallel Computing, Database Systems, and Statistics
+- TA at UD for CISC275 (Intro to Software Engineering)
 - Tutor at UD for CISC220 (Data Structures)
 - During my free time I enjoy working on projects in Python, HTML/CSS & TypeScript/JavaScript, and C++
 
