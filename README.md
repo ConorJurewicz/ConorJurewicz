@@ -17,8 +17,12 @@ I enjoy working with a wide range of technologies and tools. Here's a list of th
 
 ### What I'm up to
 
-I'm currently interning at Phase Sensitive Innovations as an Embedded Systems Developer.
-My main task at Phase Sensitive Innovations is full stack development with Axios and React Query.
+I'm currently interning at Phase Sensitive Innovations as a Software Developer/Embedded Systems Developer.
+I take on a wide range of tasks here, but some of my more time consuming ones include:
+ - Web Development with React to provide a UI for POST/GET requests on our firmware
+ - UART communication with C
+ - The maintanence and development of our in house Google Apps forms
+
 
 During the Spring 2024 Semester I'll be taking
 - Parallel Computing, Database Systems, and Statistics
