@@ -1,3 +1,5 @@
+just looking to make my impact on the world
+
 ## Contact Information
 
 - **Email:** [conorjur@udel.edu](mailto:conorjur@udel.edu)
