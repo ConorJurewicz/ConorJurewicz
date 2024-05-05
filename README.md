@@ -1,7 +1,7 @@
 ## Contact Information
 
 - **Email:** [conorjur@udel.edu](mailto:conorjur@udel.edu)
-- **LinkedIn:** [ConorJurewicz](https://www.linkedin.com/in/ConorJurewicz)
+- **LinkedIn:** [ConorJurewicz](https://www.linkedin.com/in/conor-jurewicz-8538a01b9/)
 
 
 <!---
